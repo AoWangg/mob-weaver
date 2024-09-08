@@ -35,13 +35,13 @@ spontaneous_file_upload.enabled = true
 
 [UI]
 # Name of the app and chatbot.
-name = "TaskWeaver"
+name = "Traffic-Weaver"
 
 # Show the readme while the conversation is empty.
 show_readme_as_default = true
 
 # Description of the app and chatbot. This is used for HTML tags.
-# description = "Chat with TaskWeaver"
+# description = "Chat with Traffic-Weave"
 
 # Large size content are by default collapsed for a cleaner ui
 default_collapse_content = false
